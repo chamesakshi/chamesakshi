@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Sakshi Chame
 
-<!--
-**chamesakshi/chamesakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer | Java Developer | AI Engineer
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build scalable backend systems using Java and Spring Boot  
+- Design and develop RESTful APIs  
+- Develop AI-powered applications using RAG and Knowledge Graphs  
+- Build agentic chatbot systems with LangGraph and Neo4j  
+
+---
+
+## Tech Stack
+
+**Languages:** Java, Python, SQL  
+
+**Backend:** Spring Boot, Spring Framework, JAX-RS, JPA/Hibernate, Maven, REST APIs, GraphQL, Microservices, Apache ActiveMQ, Object-Oriented Programming (OOP)  
+
+**Databases:** PostgreSQL, SQL, Neo4j, Cypher 
+
+**AI Systems:** Agentic AI, LangGraph, RAG, Prompt Engineering, LLM Integration, Semantic Search, Knowledge Graphs  
+---
+
+## Reach Me
+
+💼 LinkedIn: [Sakshi Chame](https://www.linkedin.com/in/sakshichame/)
