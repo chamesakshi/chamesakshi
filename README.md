@@ -1,6 +1,6 @@
 ## Hi, I'm Sakshi👋
 
-Backend Engineer | Java Developer | AI Engineer
+Software Engineer | Java Developer | AI Engineer
 
 ### What I Do
 
